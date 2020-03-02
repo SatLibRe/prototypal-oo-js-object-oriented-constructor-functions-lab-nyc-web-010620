@@ -14,7 +14,8 @@ class Driver {
   }
 }
 
-class PickUpLocation(){
-  
+class PickUpLocation(address,city){
+  this.address = address
+  this.city = city
 }
 
