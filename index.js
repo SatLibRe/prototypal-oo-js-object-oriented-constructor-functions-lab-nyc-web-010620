@@ -14,4 +14,7 @@ class Driver {
   }
 }
 
+class PickUpLocation(){
+  
+}
 
