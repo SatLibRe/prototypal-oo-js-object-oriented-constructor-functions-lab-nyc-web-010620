@@ -5,3 +5,7 @@ class Scooter {
     this.color = color
   }
 }
+
+class Driver {
+  
+}
